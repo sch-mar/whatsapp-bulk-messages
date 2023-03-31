@@ -1,0 +1,4 @@
+Hello {name},
+this is the message template.
+You can even use emojis like that :smiling_face_with_smiling_eyes
+Greetings
