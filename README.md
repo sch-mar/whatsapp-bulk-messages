@@ -61,4 +61,5 @@ python3 script.py
 ## Sources
 
 [1] Forwarding flags: https://faq.whatsapp.com/1053543185312573
+
 [2] Broadcasting limitation: https://faq.whatsapp.com/861663048350950
